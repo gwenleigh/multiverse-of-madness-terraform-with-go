@@ -8,18 +8,18 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
 # Welcome
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Image from the official website of <a href="https://terraform.cloudprojectbootcamp.com/">Terraform Cloud Project Bootcamp</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/Crud (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 This book is a supplementary reference material for [Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/) and [Andrew Bayko](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true\&heroEntityKey=urn%3Ali%3Afsd\_profile%3AACoAACpgExEBDe45kds7laCsoy-jRoR58KujJp4\&keywords=andrew%20bayko\&origin=RICH\_QUERY\_SUGGESTION\&position=0\&searchId=ecc185ba-8cc3-45f4-929d-a719626ccc1d\&sid=jBQ\&spellCorrectionEnabled=false)'s [Free Terraform Cloud Project Bootcamp](https://terraform.cloudprojectbootcamp.com/). I wrote this myself as part of my Terraform learning and as one extra mile of efforts to understand better what was covered during the course. Please note that this is NOT part of the Andrews' official [Bootcamp](https://terraform.cloudprojectbootcamp.com/) [program](https://docs.google.com/document/d/1Ywh-7qaMz3FHUK6SlpZaXJd\_\_FYQnwIlq8MaRmP\_X\_M/edit), but my personal book.&#x20;
 
@@ -32,6 +32,8 @@ This short book walks through each tag episode of the bootcamp, attempting to sh
 It would be a great joy for me to know if this guide is ever helpful to at least some of  you. I am a cloud learner myself. I will appreciate any feedback or comments you have. If you spot any mistakes or errors, please feel free to contact me. I would be happy to have a discussion with you.&#x20;
 
 
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Image from the official website of <a href="https://terraform.cloudprojectbootcamp.com/">Terraform Cloud Project Bootcamp</a></p></figcaption></figure>
 
 ### About the Title - Yes, it's [Chris](https://www.linkedin.com/in/chrisfwilliams/)!
 
