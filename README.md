@@ -19,6 +19,8 @@ layout:
 
 # Welcome
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Image from the official website of <a href="https://terraform.cloudprojectbootcamp.com/">Terraform Cloud Project Bootcamp</a></p></figcaption></figure>
+
 This book is a supplementary reference material for [Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/) and [Andrew Bayko](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true\&heroEntityKey=urn%3Ali%3Afsd\_profile%3AACoAACpgExEBDe45kds7laCsoy-jRoR58KujJp4\&keywords=andrew%20bayko\&origin=RICH\_QUERY\_SUGGESTION\&position=0\&searchId=ecc185ba-8cc3-45f4-929d-a719626ccc1d\&sid=jBQ\&spellCorrectionEnabled=false)'s [Free Terraform Cloud Project Bootcamp](https://terraform.cloudprojectbootcamp.com/). I wrote this myself as part of my Terraform learning and as one extra mile of efforts to understand better what was covered during the course. Please note that this is NOT part of the Andrews' official [Bootcamp](https://terraform.cloudprojectbootcamp.com/) [program](https://docs.google.com/document/d/1Ywh-7qaMz3FHUK6SlpZaXJd\_\_FYQnwIlq8MaRmP\_X\_M/edit), but my personal book.&#x20;
 
 * These [Andrews](https://exampro.co/) based in Schreiber, Ontario, Canada are two incredible super humans who are commited to share cloud knowledge and make cloud learning more accessible to all (~~rumour has it that Bayko is not a super "human" but a super AI~~... shhhh :shushing\_face:).&#x20;
